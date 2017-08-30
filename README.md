@@ -1,2 +1,2 @@
 # js-practice
-Single-file JavaScript practice exercises.
+Single-file JavaScript practice exercises and coding challenges.
